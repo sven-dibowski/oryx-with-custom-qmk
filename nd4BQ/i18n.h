@@ -1,3 +1,6 @@
+#define KC_PC_CUT LCTL(KC_X)
+#define KC_PC_COPY LCTL(KC_C)
+#define KC_PC_PASTE LCTL(KC_V)
 #define US_ADIA ALGR(KC_Q)
 #define US_SS ALGR(KC_S)
 #define US_UDIA ALGR(KC_Y)
